@@ -1,0 +1,2 @@
+https://catfact.ninja/fact
+https://randomuser.me/api/
